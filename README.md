@@ -1,6 +1,6 @@
 <!-- Banner Image with Reduced Height -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/2f/ae/6a/2fae6ab24c8a2d7587db30730f900c57.jpg" alt="MasterHead" width="90%" height="90%">
+  <img src="https://utfs.io/f/bbe42786-0b00-4f4b-9a14-31f3cd1d5b47-qvab8k.jpg" alt="MasterHead" width="90%" height="90%">
 </p>
 
 <h1 align="center">
