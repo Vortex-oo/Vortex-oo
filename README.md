@@ -6,7 +6,7 @@
 <h1 align="center">
   <span style="color:#00eaff">Hi 👋, I'm DEBJIT</span>
 </h1>
-<h3 align="center" style="color:#00ff7f">A passionate frontend developer from India</h3>
+<h3 align="center" style="color:#00ff7f">A passionate Web Devloper developer from India</h3>
 
 <!-- Coding Image -->
 <p align="center">
