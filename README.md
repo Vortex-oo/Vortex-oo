@@ -47,16 +47,17 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vortex-oo&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=vortex-oo&show_icons=true&theme=tokyonight&cache_bust=1" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vortex-oo&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vortex-oo&theme=tokyonight&cache_bust=1" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vortex-oo&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vortex-oo&show_icons=true&theme=tokyonight&layout=compact&cache_bust=1" alt="Top Languages">
 </p>
+
 
 ---
 
