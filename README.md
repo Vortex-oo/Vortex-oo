@@ -28,7 +28,7 @@
 
 ## 🔗 **Connect With Me**
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="www.linkedin.com/in/debjit-sen-a37980282" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/vortex-oo" target="_blank">
