@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on **ScanNGrub**  
 - 🌱 I’m currently learning **DEVOPS**  
 - 💬 Ask me about **MERN Stack, Full Stack and Web Development**  
-- ⚡ Fun fact **I am a photographer**  
+- ⚡ Fun fact **I am a good photographer**  
 
 ---
 
