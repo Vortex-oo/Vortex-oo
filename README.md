@@ -20,7 +20,7 @@
 </p>
 
 - 🔭 I’m currently working on **ScanNGrub**  
-- 🌱 I’m currently learning **DEVOPS**  
+- 🌱 I’m currently learning **DEVOPS and Block**  
 - 💬 Ask me about **MERN Stack, Full Stack and Web Development**  
 - ⚡ Fun fact **I am a good photographer**  
 
