@@ -18,9 +18,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vortex-oo&label=Profile%20views&color=00eaff&style=flat" alt="Profile Views" />
 </p>
-
-- 🔭 I’m currently working on **ScanNGrub**  
-- 🌱 I’m currently learning **DEVOPS and Block**  
+  
+- 🌱 I’m currently learning **DEVOPS and Blockchian**  
 - 💬 Ask me about **MERN Stack, Full Stack and Web Development**  
 - ⚡ Fun fact **I am a good photographer**  
 
