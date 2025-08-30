@@ -1,6 +1,8 @@
 <!-- Banner Image with Reduced Height -->
-<p align="center">
-  <img src="https://utfs.io/f/bbe42786-0b00-4f4b-9a14-31f3cd1d5b47-qvab8k.jpg" alt="MasterHead" width="90%" height="90%">
+<p align="center" style="height:100px;">
+  <img src="https://res.cloudinary.com/dooekcvv0/image/upload/v1756562758/lsetplbkerkujnqz0lwr.jpg" 
+     alt="MasterHead" 
+     style="height:375px; width:90%; object-fit:cover;" />
 </p>
 
 <h1 align="center">
@@ -10,7 +12,9 @@
 
 <!-- Coding Image -->
 <p align="center">
-  <img src="https://res.cloudinary.com/dooekcvv0/image/upload/v1756562390/th7nckrrrqrghhnilvpw.png" alt="Coding Image" width="300">
+  <img src="https://res.cloudinary.com/dooekcvv0/image/upload/v1756562390/th7nckrrrqrghhnilvpw.png" 
+     alt="MasterHead" 
+     style="height:315px; width:50%; object-fit:cover;" />
 </p>
 
 ---
