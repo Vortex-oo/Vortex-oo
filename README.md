@@ -13,8 +13,9 @@
 <!-- Coding Image -->
 <p align="center">
   <img src="https://res.cloudinary.com/dooekcvv0/image/upload/v1756562390/th7nckrrrqrghhnilvpw.png" 
-     alt="MasterHead" 
-     style="height:315px; width:50%; object-fit:cover;" />
+       alt="Coding Image"
+       width="400"
+       height="300" />
 </p>
 
 ---
