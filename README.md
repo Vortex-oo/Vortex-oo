@@ -10,7 +10,7 @@
 
 <!-- Coding Image -->
 <p align="center">
-  <img src="[https://i.pinimg.com/736x/2d/96/e1/2d96e179c065c912b6e1eb8aae4496a9.jpg](https://res.cloudinary.com/dooekcvv0/image/upload/v1756562390/th7nckrrrqrghhnilvpw.png)" alt="Coding Image" width="300">
+  <img src="https://res.cloudinary.com/dooekcvv0/image/upload/v1756562390/th7nckrrrqrghhnilvpw.png" alt="Coding Image" width="300">
 </p>
 
 ---
