@@ -1,8 +1,9 @@
 <!-- Banner Image with Reduced Height -->
-<p align="center" style="height:100px;">
+<p align="center">
   <img src="https://res.cloudinary.com/dooekcvv0/image/upload/v1756562758/lsetplbkerkujnqz0lwr.jpg" 
-     alt="MasterHead" 
-     style="height:375px; width:90%; object-fit:cover;" />
+       alt="MasterHead"
+       width="90%"
+       height="375" />
 </p>
 
 <h1 align="center">
